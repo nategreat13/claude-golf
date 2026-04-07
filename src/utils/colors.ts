@@ -1,0 +1,33 @@
+export const COLORS = {
+  background: '#1a3a0f',
+  ball: '#FFFFFF',
+  ballOutline: '#333333',
+  flag: '#FF0000',
+  flagPole: '#FFFFFF',
+  aimLine: '#FFD700',
+  aimLineDot: '#FFA000',
+  ui: {
+    primary: '#4CAF50',
+    secondary: '#2196F3',
+    accent: '#FF9800',
+    danger: '#F44336',
+    dark: '#1B1B1B',
+    light: '#F5F5F5',
+    text: '#FFFFFF',
+    textDark: '#333333',
+    card: '#2A2A2A',
+    cardBorder: '#3A3A3A',
+  },
+  power: {
+    low: '#4CAF50',
+    mid: '#FFEB3B',
+    high: '#FF5722',
+  },
+  accuracy: {
+    perfect: '#4CAF50',
+    good: '#FFEB3B',
+    bad: '#FF5722',
+    marker: '#FFFFFF',
+    background: '#333333',
+  },
+};
