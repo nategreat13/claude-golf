@@ -5,7 +5,7 @@ import { HoleDefinition } from '../../types/hole';
 // World units = yards, hole is 450 tall x 160 wide
 const hole1: HoleDefinition = {
   id: 'hole1',
-  name: 'The Dogleg',
+  name: 'The Curve',
   par: 4,
   teePosition: { x: 80, y: 420 },
   pinPosition: { x: 45, y: 55 },
